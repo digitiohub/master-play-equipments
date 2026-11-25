@@ -4,7 +4,7 @@ services:
   web:
     build: .
     restart: unless-stopped
-    ports: ["3000:3000"]
+    expose: ["3000"]  # Coolify proxy routes to this; no host port, so no clashes
     environment:
       MONGODB_URI: ${MONGODB_URI:-mongodb://mongo:27017/masterplay}
       JWT_SECRET: ${JWT_SECRET:?set JWT_SECRET (32+ chars)}
