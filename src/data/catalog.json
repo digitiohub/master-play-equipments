@@ -1,0 +1,2343 @@
+{
+ "swings": [
+  {
+   "id": "arch-swing",
+   "name": "Arch Swing",
+   "image": "IMG_20170525_163932.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7’&8′,L-8′,W-39″"
+    ],
+    [
+     "Safe Play Area",
+     "W-12′,L-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 Years"
+    ],
+    [
+     "Capacity",
+     "2 children"
+    ],
+    [
+     "Seats",
+     "FRP/Rubber"
+    ]
+   ]
+  },
+  {
+   "id": "std-double-swing",
+   "name": "Std Double Swing",
+   "image": "std-double-swing.jpeg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7’&8′,L-8′,W-5′"
+    ],
+    [
+     "Safe Play Area",
+     "W-12′,L-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 Years"
+    ],
+    [
+     "Capacity",
+     "2 children"
+    ],
+    [
+     "Seats",
+     "FRP/Rubber"
+    ]
+   ]
+  },
+  {
+   "id": "arch-swing-with-frp-flowers",
+   "name": "Arch Swing with FRP Flowers",
+   "image": "Std-Double-Swing1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7’&8′,L-8′,W-39″"
+    ],
+    [
+     "Safe Play Area",
+     "W-12′,L-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 Years"
+    ],
+    [
+     "Capacity",
+     "2 children"
+    ],
+    [
+     "Seats",
+     "FRP/Rubber"
+    ]
+   ]
+  },
+  {
+   "id": "std-double-swing-with-frp",
+   "name": "Std Double Swing with FRP",
+   "image": "Std-Double-Swing.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7’&8′,L-8′,W-5′"
+    ],
+    [
+     "Safe Play Area",
+     "W-12′,L-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 Years"
+    ],
+    [
+     "Capacity",
+     "2 children"
+    ],
+    [
+     "Seats",
+     "FRP/Rubber"
+    ]
+   ]
+  },
+  {
+   "id": "ring-swing",
+   "name": "Ring Swing",
+   "image": "4-SEATER-RING-SWING.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5”,L-6, W-4′"
+    ],
+    [
+     "Safe Play Area",
+     "W-10′,L-10′"
+    ],
+    [
+     "Age Group",
+     "3-8 Years"
+    ],
+    [
+     "Capacity",
+     "4 children"
+    ],
+    [
+     "Seats",
+     "FRP"
+    ]
+   ]
+  },
+  {
+   "id": "twin-seater-swing-double",
+   "name": "Twin Seater Swing (Double)",
+   "image": "9.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-6′,L-7′,W-5′"
+    ],
+    [
+     "Safe Play Area",
+     "H-6′,L-12′,W-10′"
+    ],
+    [
+     "Age Group",
+     "3-8 Years"
+    ],
+    [
+     "Capacity",
+     "4 children"
+    ],
+    [
+     "Seats",
+     "FRP"
+    ]
+   ]
+  },
+  {
+   "id": "luxury-swing-pvc-frp-roof",
+   "name": "Luxury Swing (PVC/FRP Roof)",
+   "image": "LUXURY-SWING-WITH-FRP-ROOF-1-scaled.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-6′,L-6′, W-5′"
+    ],
+    [
+     "Safe Play Area",
+     "H-6′,L-10’’,W-10′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2 Adults"
+    ],
+    [
+     "Seats",
+     "FRP"
+    ]
+   ]
+  },
+  {
+   "id": "party-swing",
+   "name": "Party Swing",
+   "image": "10-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-8′, W-5′, L-8′"
+    ],
+    [
+     "Safe Play Area",
+     "W-8′, L-12′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "4 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "deluxe-swing-pvc-roof",
+   "name": "Deluxe Swing (PVC Roof)",
+   "image": "2-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-6′,L-6′, W-5′"
+    ],
+    [
+     "Safe Play Area",
+     "H-6′,L-10′,W-10′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2 Adults"
+    ],
+    [
+     "Seats",
+     "FRP"
+    ]
+   ]
+  },
+  {
+   "id": "frp-patti-swing",
+   "name": "FRP Patti Swing",
+   "image": "swings-2.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-6′, W-4’, L-6’"
+    ],
+    [
+     "Safe Play Area",
+     "H-6′, W-12′, L-12’"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2 Adults"
+    ]
+   ]
+  }
+ ],
+ "slides": [
+  {
+   "id": "frp-plain-slide",
+   "name": "FRP Plain Slide",
+   "image": "FRP-PLAIN-SLIDE-7-Ht-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-23″, L-14′ | H-7′, W-23″, L-17′"
+    ],
+    [
+     "Safe Play Area",
+     "H-5′, W-6′, L-20′ | H-7′, W-6′, L-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green, Orange"
+    ]
+   ]
+  },
+  {
+   "id": "frp-wave-slide",
+   "name": "FRP Wave Slide",
+   "image": "1-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-23″, L-14′ | H-7′, W-23″, L-17′"
+    ],
+    [
+     "Safe Play Area",
+     "‘ H-5′, W-6′, L-20’ | H-7′, W-6′, L-24’"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green,Orange"
+    ]
+   ]
+  },
+  {
+   "id": "frp-double-slide",
+   "name": "FRP Double Slide",
+   "image": "IMG-20200109-WA0008.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-3’, L-14′"
+    ],
+    [
+     "Safe Play Area",
+     "H-5′, W-10′, L-22’"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green,Orange"
+    ]
+   ]
+  },
+  {
+   "id": "frp-twin-slide",
+   "name": "FRP Twin Slide",
+   "image": "IMG_20210113_123204.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-23″, L-14′ | H-7′, W-23″, L-17′"
+    ],
+    [
+     "Safe Play Area",
+     "‘ H-5′, W-6′, L-20’ | H-7′, W-6′, L-24’"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green, Orange"
+    ]
+   ]
+  },
+  {
+   "id": "roller-slide",
+   "name": "Roller Slide",
+   "image": "whatsapp-image-2018-01-10-at-1-47-05-am-500x500-1.jpeg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-23″, L-14′ | H-7′, W-23″, L-17′"
+    ],
+    [
+     "Safe Play Area",
+     "H-5′, W-6′, L-20’ | H-7′, W-6′, L-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green, Orange"
+    ]
+   ]
+  },
+  {
+   "id": "frp-spiral-slide-5-h",
+   "name": "FRP Spiral Slide 5'H",
+   "image": "garden-view1.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-5′, W-23″, L-14′"
+    ],
+    [
+     "Safe Play Area",
+     "‘ H-5′, W-6’, L-20’"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green"
+    ]
+   ]
+  },
+  {
+   "id": "frp-spiral-slide-7-h",
+   "name": "FRP Spiral Slide 7'H",
+   "image": "SPIRAL-SLIDE-7H-pj0c1sdc4o7mvbbjy2vax5spx440bjgu0gaofm2v74.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′, W-23″, L-17′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′, W-6′, L-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "3-4 Children"
+    ],
+    [
+     "Color",
+     "Red, Yellow, Blue, Green,Orange"
+    ]
+   ]
+  }
+ ],
+ "multi-play-systems": [
+  {
+   "id": "multi-play-system-50",
+   "name": "Multi Play System-50",
+   "image": "MRP-50.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-24′, W-18’"
+    ],
+    [
+     "Safe Play Area",
+     "L-30′, W-23"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-51",
+   "name": "Multi Play System-51",
+   "image": "MRP-51.jpeg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-23′, W-18’"
+    ],
+    [
+     "Safe Play Area",
+     "L-28’, W-23′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-15 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-52",
+   "name": "Multi Play System-52",
+   "image": "MRP-52.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-16′, W-15’"
+    ],
+    [
+     "Safe Play Area",
+     "L-21′, W-20"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-8",
+   "name": "Multi Play System-8",
+   "image": "MPS-8.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-31′, W-18’3″"
+    ],
+    [
+     "Safe Play Area",
+     "L-41′, W-26′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-15",
+   "name": "Multi Play System-15",
+   "image": "MPS-15.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-19′, W-19″"
+    ],
+    [
+     "Safe Play Area",
+     "L-27″, W-27″"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "8-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-16",
+   "name": "Multi Play System-16",
+   "image": "MPS-16.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L 37′ x W 32’"
+    ],
+    [
+     "Safe Play Area",
+     "L 47′ x W 42’"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "20-25 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-17",
+   "name": "Multi Play System-17",
+   "image": "MPS-17.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-13′, W-11′"
+    ],
+    [
+     "Safe Play Area",
+     "L-19′, W-18′"
+    ],
+    [
+     "Age Group",
+     "up to 6 years"
+    ],
+    [
+     "Capacity",
+     "7-8 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-28",
+   "name": "Multi Play System-28",
+   "image": "MPS-28.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-38’9″,W-25’6″"
+    ],
+    [
+     "Safe Play Area",
+     "L-48′, W-32"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "15-25 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-26",
+   "name": "Multi Play System-26",
+   "image": "MPS26.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-30′, W-15"
+    ],
+    [
+     "Safe Play Area",
+     "L-40′, W-22′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "12-15 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-29",
+   "name": "Multi Play System-29",
+   "image": "MPS-29.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-15′, W-23′"
+    ],
+    [
+     "Safe Play Area",
+     "L-20′, W-28′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "12-15 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-30",
+   "name": "Multi Play System-30",
+   "image": "MPS-30.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-18′, W-17′"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′, W-25′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "7-8 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-9",
+   "name": "Multi Play System-9",
+   "image": "MPS-9.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20′, W-15’3″"
+    ],
+    [
+     "Safe Play Area",
+     "L-28′, W-25′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-34",
+   "name": "Multi Play System-34",
+   "image": "MPS-34.jpg",
+   "specs": []
+  },
+  {
+   "id": "multi-play-system-35",
+   "name": "Multi Play System-35",
+   "image": "MPS35.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L 18′, W 20’9″"
+    ],
+    [
+     "Safe Play Area",
+     "L 25′, W 29′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "8-10 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-36",
+   "name": "Multi Play System-36",
+   "image": "MPS-36.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L 29′, W 18′"
+    ],
+    [
+     "Safe Play Area",
+     "L 38′, W 28′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-37",
+   "name": "Multi Play System-37",
+   "image": "MPS-37.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-25’0″, W-16’6″"
+    ],
+    [
+     "Safe Play Area",
+     "L-32′, W-22′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "15-20 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-27",
+   "name": "Multi Play System-27",
+   "image": "MPS-27.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20′, W-11′"
+    ],
+    [
+     "Safe Play Area",
+     "L-30′, W-21′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-41",
+   "name": "Multi Play System-41",
+   "image": "MPS-41.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-26′, W- 16′"
+    ],
+    [
+     "Safe Play Area",
+     "L- 36′, W – 26′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "12-15 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-42",
+   "name": "Multi Play System-42",
+   "image": "IMG-20200109-WA0007.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20′, W-15’"
+    ],
+    [
+     "Safe Play Area",
+     "L-30’, W-25′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-43",
+   "name": "Multi Play System-43",
+   "image": "IMG-20180927-WA0013.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-18′, W-12’"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′, W-20′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "7-8 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-44",
+   "name": "Multi Play System-44",
+   "image": "MPS-44.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-18′, W-19’"
+    ],
+    [
+     "Safe Play Area",
+     "L-28’, W-29′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-45",
+   "name": "Multi Play System-45",
+   "image": "MPS-45-copy.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-23′, W-17’"
+    ],
+    [
+     "Safe Play Area",
+     "L-33′, W-27"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-46",
+   "name": "Multi Play System-46",
+   "image": "MRP-46.jpeg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-18′, W-19’"
+    ],
+    [
+     "Safe Play Area",
+     "L-28’, W-29′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-53",
+   "name": "Multi Play System-53",
+   "image": "Mrp-53-pjbxxx5h499pmxp2utsaosrjpn99ssvacayx4zy168.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-15′, W-18″"
+    ],
+    [
+     "Safe Play Area",
+     "L-20″, W-23″"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-1",
+   "name": "Multi Play System-1",
+   "image": "MPS-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-21′,W-19′"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′,W-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "multi-play-system-6",
+   "name": "Multi Play System-6",
+   "image": "MPS-3-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-16′, W-16′"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′, W-26′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "8-10 Children"
+    ]
+   ]
+  }
+ ],
+ "seesaws": [
+  {
+   "id": "multiple-sea-saw",
+   "name": "Multiple Sea Saw",
+   "image": "3.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’5”, L-9’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-6’, L-12’"
+    ],
+    [
+     "Age Group",
+     "3 to 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Children"
+    ],
+    [
+     "Seats",
+     "FRP Bucket"
+    ]
+   ]
+  },
+  {
+   "id": "std-2-seater-sea-saw",
+   "name": "Std. 2 Seater Sea Saw",
+   "image": "6.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’5”, L-8’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-6’, L-12’"
+    ],
+    [
+     "Age Group",
+     "3-8 years"
+    ],
+    [
+     "Capacity",
+     "2 Kids"
+    ],
+    [
+     "Seats",
+     "FRP"
+    ]
+   ]
+  },
+  {
+   "id": "std-4-seater-sea-saw",
+   "name": "Std. 4 Seater Sea Saw",
+   "image": "5-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-3’4”, L-8’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-8’, L-12’"
+    ],
+    [
+     "Age Group",
+     "3-8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "std-sea-saw-with-bucket-seats",
+   "name": "Std. Sea Saw With Bucket Seats",
+   "image": "sea-saw.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’5”, L-8’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-6’, L-12’"
+    ],
+    [
+     "Age Group",
+     "3-8 years"
+    ],
+    [
+     "Capacity",
+     "2 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "deluxe-mini-sea-saw",
+   "name": "Deluxe Mini Sea Saw",
+   "image": "IMG-20200109-WA0005.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’5”, L-6’5”"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-6’, L-12’"
+    ],
+    [
+     "Age Group",
+     "Up to 6 years"
+    ],
+    [
+     "Capacity",
+     "2 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "animal-sea-saw-frp-duck",
+   "name": "Animal Sea Saw (FRP Duck)",
+   "image": "Animal-See-Saw.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’2”, L-7"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-5’, L-12’"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "2 Children"
+    ],
+    [
+     "Seats",
+     "Animals-FRP"
+    ]
+   ]
+  },
+  {
+   "id": "animal-sea-saw-frp-fish",
+   "name": "Animal Sea Saw (FRP Fish)",
+   "image": "fish-sea-saw.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’2”, L-7’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-5’, L-12’"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "2 Children"
+    ],
+    [
+     "Seats",
+     "FRP Fish"
+    ]
+   ]
+  },
+  {
+   "id": "animal-sea-saw-frp-horse",
+   "name": "Animal Sea Saw (FRP Horse)",
+   "image": "SINGLE-ANIMAL-SEA-SAW-HORSE.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’5”, W-1’2”, L-7’"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’5”, W-5’, L-12’"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "2 Children"
+    ],
+    [
+     "Seats",
+     "FRP Bucket"
+    ]
+   ]
+  }
+ ],
+ "merry-go-rounds": [
+  {
+   "id": "mgr-4-seater",
+   "name": "MGR 4 Seater",
+   "image": "IMG_20210414_120338.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2’5”, 5’5″ Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-2’5″, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "mgr-frp-platform",
+   "name": "MGR FRP Platform",
+   "image": "DSCN7954.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,5’Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "3-8 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "mgr-metal-platform",
+   "name": "MGR Metal Platform",
+   "image": "IMG_20180604_193702.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,5’Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "3-8 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "mgr-frp-platform-seater",
+   "name": "MGR FRP Platform Seater",
+   "image": "FRP-PLATFORM-MGR-SEATER.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4’5″,5’5″Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "mgr-frp-platform-seater-2",
+   "name": "MGR FRP Platform Seater",
+   "image": "IMG-20190715-WA0010.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,5’5″Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "animal-mgr-4-seater",
+   "name": "Animal MGR 4 Seater",
+   "image": "IMG_20170525_163800.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-3′,6’Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-3′, 10’Dia"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "mgr-frp-platform-with-leaf-roof",
+   "name": "MGR FRP Platform with Leaf Roof",
+   "image": "IMG_20210422_115605.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,5’5″Dia"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′, 9’Dia"
+    ],
+    [
+     "Age Group",
+     "Upto 8 years"
+    ],
+    [
+     "Capacity",
+     "4 Kids"
+    ]
+   ]
+  }
+ ],
+ "climbers": [
+  {
+   "id": "straight-net-climber",
+   "name": "Straight Net Climber",
+   "image": "ROPE-NET-CLIMBER.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-6′,W?6″"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-10′,W?6′"
+    ],
+    [
+     "Age Group",
+     "3-12 Years"
+    ],
+    [
+     "Capacity",
+     "3-4 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "a-to-b-rope-climber",
+   "name": "A to B Rope Climber",
+   "image": "7.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20’6″, W-18’6″"
+    ],
+    [
+     "Safe Play Area",
+     "L-26, W-24"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "triple-climber",
+   "name": "Triple Climber",
+   "image": "10.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-6′,W-6′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-10′,W-10"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "6-8 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "pyramid-climber",
+   "name": "Pyramid Climber",
+   "image": "6-Copy-Copy.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-10′,L-9′,W-9"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-15′,W-15′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "7-8 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "s-type-climber",
+   "name": "S Type Climber",
+   "image": "IMG-20200109-WA0011-1.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-12′,W-6′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-20′,W-14′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "4?5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "circular-climber",
+   "name": "Circular Climber",
+   "image": "IMG-20180414-WA0038.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-4′,W-4′"
+    ],
+    [
+     "Safe Play Area",
+     "H-5′,L-10′,W-10′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "4-6 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "criss-cross-climber",
+   "name": "Criss Cross Climber",
+   "image": "criss-cross-climber.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-6′,W-6′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-12′,W-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "8-10 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "vertical-tyre-climber",
+   "name": "Vertical Tyre Climber",
+   "image": "vertical-tyre-climber.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-30″,W-30\\”"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-6′,W-6′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "multiple-climber",
+   "name": "Multiple Climber",
+   "image": "Imultiple-climber.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-6′,W-6"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-12′,W-12′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "8-10 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "rock-net-climber",
+   "name": "Rock Net Climber",
+   "image": "IMG_20180427_161239.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20’6″, W-18’6″"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′, W-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  },
+  {
+   "id": "frp-duck-climber",
+   "name": "FRP Duck Climber",
+   "image": "FRP-Duck-Climber.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-10′,L-7′,W-7′"
+    ],
+    [
+     "Safe Play Area",
+     "H-10′,L-15′,W-15′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "6?8 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "rainbow-chain-climber",
+   "name": "Rainbow Chain Climber",
+   "image": "IMG-20200109-WA0012.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "L-20’6″, W-18’6″"
+    ],
+    [
+     "Safe Play Area",
+     "L-26′, W-24′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "10-12 Children"
+    ]
+   ]
+  }
+ ],
+ "exercise-games": [
+  {
+   "id": "loop-rungs",
+   "name": "Loop Rungs",
+   "image": "Exercise-games.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-14′,W-2′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-20′,W-8′"
+    ],
+    [
+     "Age Group",
+     "Upto 12 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "frp-balance-bridge",
+   "name": "FRP Balance Bridge",
+   "image": "Exercise-games2.png",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-18′,W-28″"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-28′,W-8′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "parallel-bars",
+   "name": "Parallel Bars",
+   "image": "DOUBLE-BAR.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,L-6′,W-2"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′,L-12′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Upto 12 years"
+    ],
+    [
+     "Capacity",
+     "1-2 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "climbing-wall",
+   "name": "Climbing Wall",
+   "image": "20150603_152431-Copy.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-3’3″,W-3′"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-8′,W-9′"
+    ],
+    [
+     "Age Group",
+     "Upto 12 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "walking-barrel",
+   "name": "Walking Barrel",
+   "image": "IMG-20180411-WA0029.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-6′,L-4′,W-15″"
+    ],
+    [
+     "Safe Play Area",
+     "H-6′,L-10′,W-6′"
+    ],
+    [
+     "Age Group",
+     "5 to 12 years"
+    ],
+    [
+     "Capacity",
+     "1Kid"
+    ]
+   ]
+  },
+  {
+   "id": "cross-zero",
+   "name": "Cross & Zero",
+   "image": "DSCN7946.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-7′,L-18′,W-28″"
+    ],
+    [
+     "Safe Play Area",
+     "H-7′,L-28′,W-8′"
+    ],
+    [
+     "Age Group",
+     "3-12 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  }
+ ],
+ "outdoor-gym": [
+  {
+   "id": "single-shoulder-press",
+   "name": "Single Shoulder Press",
+   "image": "IMG_20180427_170350-1.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-4’6″,W-30″"
+    ],
+    [
+     "Safe Area",
+     "L-8′,W-6′"
+    ]
+   ]
+  },
+  {
+   "id": "sky-walker",
+   "name": "Sky Walker",
+   "image": "IMG_20171213_162541.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-42″,W-18″"
+    ],
+    [
+     "Safe Area",
+     "L-8′,W-8′"
+    ]
+   ]
+  },
+  {
+   "id": "gym-equipment-combo",
+   "name": "Gym equipment Combo",
+   "image": "IMG-20210728-WA0005.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-4’6″,W-30″"
+    ],
+    [
+     "Safe Area",
+     "L-8′,W-6′"
+    ]
+   ]
+  },
+  {
+   "id": "double-pendulum",
+   "name": "Double Pendulum",
+   "image": "Surf-Board-GYM.png",
+   "specs": [
+    [
+     "Product Area",
+     "L- 4′,W-2′"
+    ],
+    [
+     "Safe Area",
+     "L- 8′,W- 6′"
+    ]
+   ]
+  },
+  {
+   "id": "double-arm-wheel",
+   "name": "Double Arm Wheel",
+   "image": "IMG_20180427_170419-1.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-4′,W-2′"
+    ],
+    [
+     "Safe Area",
+     "L-10′,W-8′"
+    ]
+   ]
+  },
+  {
+   "id": "single-leg-press",
+   "name": "Single Leg Press",
+   "image": "IMG-20180410-WA0004-1.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-4′,W-2′"
+    ],
+    [
+     "Safe Area",
+     "L-10′,W-8′"
+    ]
+   ]
+  },
+  {
+   "id": "bicycle",
+   "name": "Bicycle",
+   "image": "Bicycle.jpg",
+   "specs": [
+    [
+     "Product Area",
+     "L-3′,W-18″"
+    ],
+    [
+     "Safe Area",
+     "L-8′,W-6′"
+    ]
+   ]
+  },
+  {
+   "id": "step-trainer",
+   "name": "Step Trainer",
+   "image": "Step-Trainer.png",
+   "specs": [
+    [
+     "Product Area",
+     "L-4′,W-2′"
+    ],
+    [
+     "Safe Area",
+     "L-10′,W-6′"
+    ]
+   ]
+  }
+ ],
+ "kids-zone": [
+  {
+   "id": "frp-combination-3-in-1",
+   "name": "FRP Combination 3-in-1",
+   "image": "1-2.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-4′,L-8′,w-6′"
+    ],
+    [
+     "Safe Play Area",
+     "H-4′,L-12′,W-12′"
+    ],
+    [
+     "Age Group",
+     "Up to 6 years"
+    ],
+    [
+     "Capacity",
+     "4-5 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "frp-duck-spring-rider",
+   "name": "FRP Duck Spring Rider",
+   "image": "IMG-20180220-WA0037.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2′,L-2′,w-1′"
+    ],
+    [
+     "Safe Play Area",
+     "H-2′,L-6′,W-5′"
+    ],
+    [
+     "Age Group",
+     "Up to 5 years"
+    ],
+    [
+     "Capacity",
+     "1 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "frp-horse-spring-rider",
+   "name": "FRP Horse Spring Rider",
+   "image": "IMG-20170311-WA0008.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2′,L-2′,w-1′"
+    ],
+    [
+     "Safe Play Area",
+     "H-2′,L-6′,W-5′"
+    ],
+    [
+     "Age Group",
+     "Up to 5 years"
+    ],
+    [
+     "Capacity",
+     "1 Kid"
+    ]
+   ]
+  },
+  {
+   "id": "frp-ding-dong-boat",
+   "name": "FRP Ding Dong Boat",
+   "image": "IMG_20170525_164020-1-scaled.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2′,L-4′,w-21″"
+    ],
+    [
+     "Safe Play Area",
+     "H-2′,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Up to 5 years"
+    ],
+    [
+     "Capacity",
+     "2 Kids"
+    ]
+   ]
+  },
+  {
+   "id": "frp-fish-spring-rider",
+   "name": "FRP Fish Spring Rider",
+   "image": "fish-spring-rider.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2′,L-2′,w-9″"
+    ],
+    [
+     "Safe Play Area",
+     "H-2′,L-6′,W-5"
+    ],
+    [
+     "Age Group",
+     "Up to 6 years"
+    ],
+    [
+     "Capacity",
+     "1 Kid"
+    ]
+   ]
+  },
+  {
+   "id": "frp-truck-spring-rider",
+   "name": "FRP Truck Spring Rider",
+   "image": "car-spring-rider.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-2′,L-2′,w-9″"
+    ],
+    [
+     "Safe Play Area",
+     "H-2′,L-6′,W-5"
+    ],
+    [
+     "Age Group",
+     "Up to 6 years"
+    ],
+    [
+     "Capacity",
+     "1 Kid"
+    ]
+   ]
+  },
+  {
+   "id": "frp-rocking-rider",
+   "name": "FRP Rocking Rider",
+   "image": "5.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-18′,L-3′,w-18″"
+    ],
+    [
+     "Safe Play Area",
+     "H-18′,L-8′,W-4′"
+    ],
+    [
+     "Age Group",
+     "Up to 5 years"
+    ],
+    [
+     "Capacity",
+     "1 Kid"
+    ]
+   ]
+  },
+  {
+   "id": "frp-rocking-rider-2",
+   "name": "FRP Rocking Rider",
+   "image": "4.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-18′,L-3′,w-18″"
+    ],
+    [
+     "Safe Play Area",
+     "H-18′,L-8′,W-4′"
+    ],
+    [
+     "Age Group",
+     "Up to 5 years"
+    ],
+    [
+     "Capacity",
+     "1 Kid"
+    ]
+   ]
+  }
+ ],
+ "benches": [
+  {
+   "id": "frp-casting-bench",
+   "name": "FRP Casting Bench",
+   "image": "B-2.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-3′,L-4’/5′,W-24″"
+    ],
+    [
+     "Safe Play Area",
+     "H-3′,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2-3 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "frp-sleek-bench",
+   "name": "FRP Sleek Bench",
+   "image": "B-7.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’6″,L-4′,W-18″"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’6″,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2-3 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "deluxe-bench",
+   "name": "Deluxe Bench",
+   "image": "B-3.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-3′,L-4”,W-21″"
+    ],
+    [
+     "Safe Play Area",
+     "H-3′,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2-3 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "frp-patti-bench",
+   "name": "FRP Patti Bench",
+   "image": "FRP-PATTI-BENCH.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-3′,L-4’/5′,W-22″"
+    ],
+    [
+     "Safe Play Area",
+     "H-3′,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2-3 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "frp-patti-sleek-bench",
+   "name": "FRP Patti Sleek Bench",
+   "image": "B-6.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-1’6″,L-4′,W-18″"
+    ],
+    [
+     "Safe Play Area",
+     "H-1’6″,L-8′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "2-3 Adults"
+    ]
+   ]
+  },
+  {
+   "id": "frp-family-bench",
+   "name": "FRP Family Bench",
+   "image": "B-4.jpg",
+   "specs": [
+    [
+     "Actual Area",
+     "H-3′,L-6′,W-21″"
+    ],
+    [
+     "Safe Play Area",
+     "H-3′,L-10′,W-6′"
+    ],
+    [
+     "Age Group",
+     "Adults"
+    ],
+    [
+     "Capacity",
+     "4 Adults"
+    ]
+   ]
+  }
+ ],
+ "frp-dustbins": [
+  {
+   "id": "chimpy-frp-dust-bin",
+   "name": "Chimpy FRP Dust Bin",
+   "image": "dusbin4.png",
+   "specs": []
+  },
+  {
+   "id": "pig-frp-dust-bin",
+   "name": "Pig FRP Dust Bin",
+   "image": "dusbib2.png",
+   "specs": [
+    [
+     "Product Area",
+     "L-42″,W-18″"
+    ],
+    [
+     "Safe Area",
+     "L-8′,W-8′"
+    ]
+   ]
+  },
+  {
+   "id": "micky-mouse-frp-dust-bin",
+   "name": "Micky Mouse FRP Dust Bin",
+   "image": "dusbin1.png",
+   "specs": []
+  },
+  {
+   "id": "elephant-frp-dust-bin",
+   "name": "Elephant FRP Dust Bin",
+   "image": "dusbin6.png",
+   "specs": []
+  },
+  {
+   "id": "give-me-more-frp-dust-bin",
+   "name": "Give Me More FRP Dust Bin",
+   "image": "dusbin5.png",
+   "specs": []
+  },
+  {
+   "id": "joker-house-frp-dust-bin",
+   "name": "Joker House FRP Dust Bin",
+   "image": "dusbin3.png",
+   "specs": []
+  },
+  {
+   "id": "lady-chicken-frp-dust-bin",
+   "name": "Lady Chicken FRP Dust Bin",
+   "image": "MB-LADY-CHICKEN-1.jpg",
+   "specs": []
+  },
+  {
+   "id": "dog-frp-dust-bin",
+   "name": "Dog FRP Dust Bin",
+   "image": "dusbin.png",
+   "specs": []
+  }
+ ],
+ "rubber-flooring": [],
+ "rubberImages": [
+  "1-4.jpg",
+  "2.jpg",
+  "IMG_20210208_143132.jpg",
+  "IMG-20150412-WA0018.jpg",
+  "IMG-20160623-WA0002.jpg",
+  "IMG-20181101-WA0002.jpg"
+ ]
+}
